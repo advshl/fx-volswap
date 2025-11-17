@@ -27,7 +27,7 @@ This mirrors risk-control overlays used by sell-side FX structuring and options 
 ---
 
 ## 📁 2. Repository Structure
-
+```bash
 fx-volswap-gamma-hedge
 │
 ├── data
@@ -39,7 +39,7 @@ fx-volswap-gamma-hedge
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
